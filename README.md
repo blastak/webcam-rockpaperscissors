@@ -18,3 +18,4 @@ Since the use of third-party libraries was not allowed, it was implemented using
 - VFW (Video For Windows)
 - Old-fashioned webcam with RGB24 support
 
+![25535_craw2](https://github.com/blastak/webcam-rockpaperscissors/assets/12149098/c6a671d2-4fc3-4047-a03f-84db8bd5bd5a)
